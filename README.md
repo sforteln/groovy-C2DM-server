@@ -13,8 +13,8 @@ The server only stores one Registration id so it can only server one device/app 
 
 ## Running it
 Once you have groovy installed you can [run](http://groovy.codehaus.org/Running) the script from the [command line](http://groovy.codehaus.org/Running#Running-commandline) with<br/>
-    groovy --classpath ./src ./src/org/c2dm/server/C2DMServerRunner.groovy
-at the root of the project
+    groovy --classpath ./src ./src/org/c2dm/server/C2DMServerRunner.groovy<br/>
+at the root of the project<br/>
 **NOTE:**  Because this downloads the dependencies at runtime it can take awhile to get going on a slow connection.
 
 ## Using it
