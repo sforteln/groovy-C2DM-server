@@ -1,4 +1,4 @@
-# Simple C2DNM server written in groovy
+# Simple development C2DM server written in groovy
 
 This is meant to allow for easy testing of android apps that will use C2DM.
 
